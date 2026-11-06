@@ -1,4 +1,4 @@
-"""Workshop checker: run from the repository root with Python 3.12 or newer.
+ """Workshop checker: run from the repository root with Python 3.12 or newer.
 
 Students edit order.csv only. Prices are in cents to keep budget checks exact.
 No external Python packages are required.
@@ -15,7 +15,7 @@ from pathlib import Path
 MENU = {
     "water": ("Water", "drink", 50),
     "tea": ("Tea", "drink", 80),
-    "banana": ("Banana", "snack", 70),
+    "banana": ("Banan", "snack", 70),
     "curry_puff": ("Curry puff", "snack", 120),
     "sandwich": ("Sandwich", "snack", 200),
     "cookies": ("Cookies", "snack", 100),
